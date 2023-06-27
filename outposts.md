@@ -1,6 +1,5 @@
-Outpost Design List
-███████████████████
-
+Outpost Design List  
+███████████████████  
 ╟─ [ ] Smelting (S,M,L)  
 ║  
 ╟─ [ ] Circuits (S,M,L)  
