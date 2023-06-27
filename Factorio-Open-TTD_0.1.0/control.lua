@@ -1,6 +1,6 @@
-local small_ruins = require("ruins/small") -- an array of ruins
-local medium_ruins = require("ruins/medium") -- an array of ruins
-local large_ruins = require("ruins/large") -- an array of ruins
+local small_ruins = require("ruins/smallRuins") -- an array of ruins
+local medium_ruins = require("ruins/mediumRuins") -- an array of ruins
+local large_ruins = require("ruins/largeRuins") -- an array of ruins
 
 local function make_ruin_set()
   remote.call("AbandonedRuins", "add_ruin_set", "factorio-openttd", small_ruins, medium_ruins, large_ruins)
