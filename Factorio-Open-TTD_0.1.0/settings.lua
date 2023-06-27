@@ -1,0 +1,2 @@
+table.insert(data.raw["string-setting"]["AbandonedRuins-set"].allowed_values, "factorio-openttd") -- allow this mod's own set to be selected
+data.raw["string-setting"]["AbandonedRuins-set"].default_value = "factorio-openttd" -- and select it by default

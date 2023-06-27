@@ -1,0 +1,2 @@
+[ ] Design starting area
+[ ] Design "Lab" Area

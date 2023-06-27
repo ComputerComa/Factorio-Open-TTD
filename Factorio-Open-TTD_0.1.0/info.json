@@ -1,0 +1,8 @@
+{
+	"name": "Factorio-Open-TTD",
+	"version": "0.1.0",
+	"title": "Factorio Open TTD",
+	"author": "ComputerComa in collaboration with John Megacycle",
+	"factorio_version": "1.1",
+	"dependencies": ["AbandonedRuins  >= 1.0.0"]
+}
